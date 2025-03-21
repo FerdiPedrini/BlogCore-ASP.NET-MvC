@@ -263,3 +263,9 @@ C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\obj\
 C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\obj\Debug\net8.0\BlogCore.pdb
 C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\obj\Debug\net8.0\BlogCore.genruntimeconfig.cache
 C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\obj\Debug\net8.0\ref\BlogCore.dll
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\windows\Desktop\BlogCore ASP.NET MVC\BlogCore-ASP.NET-MvC\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb
