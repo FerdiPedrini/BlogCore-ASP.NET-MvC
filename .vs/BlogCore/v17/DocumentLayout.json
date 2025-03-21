@@ -5,30 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,84 +28,10 @@
               "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T22:26:25.632Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap5.min.css",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "RelativeToolTip": "BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
-              "ViewState": "AgIAAIszAAAAAAAAAAAIwBU0AAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-21T22:25:19.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:31:57.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Program.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Program.cs",
-              "RelativeToolTip": "BlogCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T13:30:03.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T13:29:18.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T13:28:36.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BlogCore\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BlogCore\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-21T13:19:36.722Z"
             }
           ]
         }
