@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore\\BlogCore.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\BlogCore.csproj",
       "projectName": "BlogCore",
-      "projectPath": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore\\BlogCore.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\BlogCore.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

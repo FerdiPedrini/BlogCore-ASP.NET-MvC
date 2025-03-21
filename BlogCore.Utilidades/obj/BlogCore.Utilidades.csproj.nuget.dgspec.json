@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
+    "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
+    "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "projectName": "BlogCore.Utilidades",
-        "projectPath": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+        "projectPath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

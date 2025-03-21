@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zYyD0zx0NSE=",
+  "dgSpecHash": "hHXw4wtcylg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\windows\\Desktop\\Curso Udemy\\BlogCore\\BlogCore\\BlogCore.csproj",
+  "projectFilePath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\BlogCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\windows\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\windows\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
