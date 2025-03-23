@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|c:\\users\\windows\\desktop\\blogcore asp.net mvc\\blogcore-asp.net-mvc\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{492C49C3-4DA1-4E90-B24F-24182DB04536}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:44:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\appsettings.json",
+              "RelativeToolTip": "BlogCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T12:50:47.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T12:44:29.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\windows\\Desktop\\BlogCore ASP.NET MVC\\BlogCore-ASP.NET-MvC\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T22:26:25.632Z",
               "EditorCaption": ""
